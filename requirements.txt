@@ -1,2 +1,3 @@
 pandas
-skicit-learn
+scikit-learn
+re
